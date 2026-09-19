@@ -12,7 +12,7 @@ Machine learning project for depression detection from social media text.
 ## Setup
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ArponMollick/derpression-thesis)
 cd depression-thesis
 
 python -m venv .venv
